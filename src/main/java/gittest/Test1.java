@@ -15,4 +15,8 @@ public class Test1 {
     public void login() {
         System.out.println("login");
     }
+
+    public void logout() {
+        System.out.println("logout");
+    }
 }
