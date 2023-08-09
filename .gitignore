@@ -1,0 +1,35 @@
+http.sslBackend "openssl"
+
+# 由.ignore支持插件（hsz.mobi）创建
+### Java模板
+*.class
+
+# java移动工具（J2ME）的临时文件
+.mtj.tmp/
+
+# 程序包文件
+*.jar
+*.war
+*.ear
+*.zip
+
+#虚拟机崩溃日志，请参阅http://www.java.com.auvenloadhelperror_hotspot.xml
+hs_err_pid*
+
+.idea
+
+*.iml
+*.bak
+*.rar
+*.log
+*.project
+*.settings
+*.classpath
+target
+classes
+lib
+*.DS_Store
+.gradle
+build
+out
+log

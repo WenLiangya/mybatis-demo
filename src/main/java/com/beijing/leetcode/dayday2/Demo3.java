@@ -13,11 +13,12 @@ package com.beijing.leetcode.dayday2;
  */
 public class Demo3 {
     public static void main(String[] args) {
+        //测试
         int[] nums = {2,-1};
         Solution3 solution3 = new Solution3();
         System.out.println(solution3.maxAbsoluteSum(nums));
 
-
+        //测试
         Solution3_1 solution3_1 = new Solution3_1();
         System.out.println(solution3_1.maxAbsoluteSum(nums));
     }
