@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>js变量</title>
+</head>
+<body>
+
+
+<script>
+    /*
+        alert(test)
+        var:
+            1,作用域：全局变量
+            2.变量可以重复定义
+    */
+
+    {
+        // var age = 30;
+        // var age = 20;
+
+        let age = 10;
+        let age2 = 10;
+
+        alert(age);
+    }
+
+
+    const PI = 3.14;
+    // var PI = 3;
+
+    document.write('PI=' + PI+"<br>");
+
+    /*类型转换：
+        *其他类型转为number:
+            I.string:按照字符串的字面值，转为数字.如果字面值不是数字，则转为NaN。一般使用parseInt
+            2.boolean:trUe转为1，false转为0
+        *其他类型转为boolean:
+    */
+
+    var str1 = " 20";
+    document.write(parseInt(str1)+"<br>");
+    var str2 = " abc";
+    document.write(parseInt(str2)+"<br>");
+    var str3 = +" abc";
+    document.write(parseInt(str3)+"<br>");
+</script>
+</body>
+</html>

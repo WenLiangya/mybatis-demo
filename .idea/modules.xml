@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../brand-demo/brand-demo.iml" filepath="$PROJECT_DIR$/../brand-demo/brand-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myOne/myOne.iml" filepath="$PROJECT_DIR$/myOne/myOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo.iml" filepath="$PROJECT_DIR$/mybatis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../request-demo/request-demo.iml" filepath="$PROJECT_DIR$/../../request-demo/request-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat_demo1/tomcat_demo1.iml" filepath="$PROJECT_DIR$/tomcat_demo1/tomcat_demo1.iml" />
+    </modules>
+  </component>
+</project>

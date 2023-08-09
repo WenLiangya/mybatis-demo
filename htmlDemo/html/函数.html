@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+  function add(a,b) {
+      return a + b;
+  }
+
+  //传入1,2 得到3
+  var result = add(1,2);
+  alert(result);
+
+  //传入1,2,3 3未被接收 仍然得到1+2=3
+  var result1 = add(1,2,3);
+  alert(result1);
+
+  //传入1 a接收1，b未接收数据，为NAN 得到1+NAN = NAN
+  var result2 = add(1);
+  alert(result2);
+
+</script>
+</body>
+</html>

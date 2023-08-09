@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<input type="button" onclick="click1()" value="点击">
+<br>
+<input type="button" id="againClick" value="再次点击">
+
+<script>
+    function click1() {
+        alert("点击按钮")
+    }
+
+    document.getElementById("againClick").onclick = function() {
+        alert("再次点击按钮")
+    }
+</script>
+</body>
+</html>

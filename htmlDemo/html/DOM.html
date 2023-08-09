@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<img id="Light" alt="图片加载失败" src="../img/off.gif">
+<br>
+<div class=" cls">传智教育</div>
+<br>
+<div class="cls">黑马程序员</diV>
+<br>
+<input type="checkbox" name="hobby">电影
+<input type="checkbox" name="hobby">旅游
+<input type="checkbox" name="hobby">游戏
+<br>
+
+
+<script>
+
+    /*
+        *获取：使用Document对象的方法来获取
+        *getElementById:根据id属性值获取，返回一个ELement对象
+        *getElementsByTagName:根据标签名称获取，返回Element对象数组
+        *getElementsByName：根据name属性值获取，返回ELement对象数组
+        *getElementsByClassName:根据cLass属性值获取，返回ELement对象数组
+     */
+
+    // const img = document.getElementById("Light");
+    // alert(img)
+    //
+    // const divs = document.getElementsByTagName("div");
+    // alert(divs.length)
+    // alert(divs)
+    // for (let i = 0; i < divs.length; i++){
+    //     alert(divs[i])
+    // }
+
+    // const habbys = document.getElementsByName("hobby")
+    // alert(habbys.length)
+    // for (let i = 0; i < habbys.length; i++){
+    //     alert(habbys[i]+" "+(i+1))
+    // }
+
+    const clss = document.getElementsByClassName("cls")
+    alert(clss.length)
+    for (let i = 0; i < clss.length;i++){
+        alert(clss[i]+" "+(i+1))
+    }
+</script>
+</body>
+</html>

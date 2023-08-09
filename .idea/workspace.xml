@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="brand-demo:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="tomcat_demo1" />
+      <module name="mybatis-demo" />
+      <module name="myOne" />
+      <module name="brand-demo" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="378238a9-cdd9-403b-8c1d-143a8f9530e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="package-info" />
+        <option value="Python Script" />
+        <option value="Tag Library Descriptor" />
+        <option value="FxmlFile" />
+        <option value="Mybatis Mapper" />
+        <option value="Jsp File" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\MAVEN\apache-maven-3.6.1\mvn_resp" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../MAVEN/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\develop\MAVEN\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1seRZuYrGdUyVU78Wgz13ymtI60" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL 方言" value="MySQL&#10;GenericSQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2664042" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.beijing.network.tcpdemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\WorkSpace\mybatis-demo\src\main\java\com\beijing\leetcode\dayday1" />
+      <recent name="D:\develop\WorkSpace\brand-demo\src\main\webapp" />
+      <recent name="D:\develop\WorkSpace\brand-demo\src\main\webapp\js" />
+      <recent name="D:\develop\WorkSpace\brand-demo\src\main\java\com\itheima\util" />
+      <recent name="D:\develop\WorkSpace\brand-demo\src\main\java\com\itheima\pojo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\develop\WorkSpace\brand-demo\src\main\webapp" />
+      <recent name="D:\develop\WorkSpace\" />
+      <recent name="D:\develop\WorkSpace\mybatis-demo\tomcat_demo2\src\main\webapp" />
+      <recent name="D:\develop\WorkSpace\mybatis-demo\htmlDemo\img" />
+      <recent name="D:\develop\WorkSpace\mybatis-demo\htmlDemo\html" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.beijing.leetcode.dayday1" />
+      <recent name="com.itheima.web.ajax" />
+      <recent name="com.itheima.web.filter" />
+      <recent name="com.itheima.web" />
+      <recent name="com.itheima.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Demo4">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.beijing.leetcode.dayday2.Demo1" />
+      <module name="mybatis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beijing.leetcode.dayday2.ListNode" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.beijing.leetcode.dayday1.Demo11" />
+      <module name="mybatis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beijing.leetcode.dayday1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.beijing.leetcode.dayday2.Demo2" />
+      <module name="mybatis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beijing.leetcode.dayday2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.beijing.leetcode.dayday2.Demo3" />
+      <module name="mybatis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beijing.leetcode.dayday2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.beijing.leetcode.dayday2.Demo4" />
+      <module name="mybatis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beijing.leetcode.dayday2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.84" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.84" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="37cae5b9-e8b2-4949-9172-aafa37fbc09c" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="brand-demo:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/brand-demo" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="4fa91c2b-2567-4b8c-886f-c5c56bcd7fc5" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64530" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="brand-demo:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat 服务器.Tomcat 8.5.84" />
+      <item itemvalue="应用程序.Demo11" />
+      <item itemvalue="应用程序.Demo1" />
+      <item itemvalue="应用程序.Demo2" />
+      <item itemvalue="应用程序.Demo3" />
+      <item itemvalue="应用程序.Demo4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Demo4" />
+        <item itemvalue="应用程序.Demo3" />
+        <item itemvalue="应用程序.Demo2" />
+        <item itemvalue="应用程序.Demo1" />
+        <item itemvalue="应用程序.Demo11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="378238a9-cdd9-403b-8c1d-143a8f9530e4" name="Default Changelist" comment="" />
+      <created>1621231128833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621231128833</updated>
+      <workItem from="1621231129903" duration="14147000" />
+      <workItem from="1621256966276" duration="1587000" />
+      <workItem from="1621258575945" duration="23000" />
+      <workItem from="1621258616526" duration="59000" />
+      <workItem from="1621258690196" duration="204000" />
+      <workItem from="1621258909261" duration="11457000" />
+      <workItem from="1621318353318" duration="2405000" />
+      <workItem from="1621321501463" duration="58406000" />
+      <workItem from="1679380534348" duration="1201000" />
+      <workItem from="1679389058928" duration="8000" />
+      <workItem from="1679412852091" duration="246000" />
+      <workItem from="1679616101257" duration="5078000" />
+      <workItem from="1679638779448" duration="1721000" />
+      <workItem from="1679644730176" duration="1830000" />
+      <workItem from="1679969728755" duration="1390000" />
+      <workItem from="1680000428965" duration="830000" />
+      <workItem from="1680070926124" duration="3018000" />
+      <workItem from="1680221442219" duration="1672000" />
+      <workItem from="1680243273796" duration="17000" />
+      <workItem from="1680246811154" duration="594000" />
+      <workItem from="1680325138097" duration="249000" />
+      <workItem from="1680849077483" duration="3511000" />
+      <workItem from="1681106876318" duration="803000" />
+      <workItem from="1681107926471" duration="6704000" />
+      <workItem from="1681179132780" duration="2023000" />
+      <workItem from="1681265950361" duration="2185000" />
+      <workItem from="1681278674507" duration="9000" />
+      <workItem from="1681280545777" duration="2520000" />
+      <workItem from="1681375332158" duration="3986000" />
+      <workItem from="1681430742243" duration="3381000" />
+      <workItem from="1681454440347" duration="2358000" />
+      <workItem from="1681639867603" duration="625000" />
+      <workItem from="1681696851478" duration="3691000" />
+      <workItem from="1681713536693" duration="3142000" />
+      <workItem from="1681786147491" duration="2076000" />
+      <workItem from="1681810524970" duration="3796000" />
+      <workItem from="1681871048572" duration="3893000" />
+      <workItem from="1681891739254" duration="1936000" />
+      <workItem from="1681970637034" duration="4663000" />
+      <workItem from="1681994576503" duration="649000" />
+      <workItem from="1682216342931" duration="1844000" />
+      <workItem from="1682302107401" duration="585000" />
+      <workItem from="1682321406559" duration="1739000" />
+      <workItem from="1682388463591" duration="90000" />
+      <workItem from="1682393343055" duration="11000" />
+      <workItem from="1682411522033" duration="471000" />
+      <workItem from="1683602671726" duration="187000" />
+      <workItem from="1684135292934" duration="3782000" />
+      <workItem from="1684196000127" duration="4011000" />
+      <workItem from="1684303998428" duration="8947000" />
+      <workItem from="1684373180366" duration="4606000" />
+      <workItem from="1684739593402" duration="5777000" />
+      <workItem from="1684909857959" duration="3906000" />
+      <workItem from="1685341721133" duration="4546000" />
+      <workItem from="1685405052506" duration="933000" />
+      <workItem from="1685513051677" duration="709000" />
+      <workItem from="1685578311703" duration="76000" />
+      <workItem from="1685695133907" duration="979000" />
+      <workItem from="1686133749024" duration="848000" />
+      <workItem from="1686134622349" duration="8573000" />
+      <workItem from="1686184170527" duration="712000" />
+      <workItem from="1686279650256" duration="76000" />
+      <workItem from="1687590163271" duration="595000" />
+      <workItem from="1687596393079" duration="4071000" />
+      <workItem from="1688177020950" duration="18869000" />
+      <workItem from="1688213471195" duration="1887000" />
+      <workItem from="1688265652649" duration="5295000" />
+      <workItem from="1688282132998" duration="4661000" />
+      <workItem from="1688303468244" duration="1931000" />
+      <workItem from="1688344660290" duration="6104000" />
+      <workItem from="1688364827810" duration="4330000" />
+      <workItem from="1688377007379" duration="5404000" />
+      <workItem from="1688431267795" duration="3844000" />
+      <workItem from="1688436616844" duration="226000" />
+      <workItem from="1688436887579" duration="2188000" />
+      <workItem from="1688439111741" duration="1431000" />
+      <workItem from="1688450241125" duration="8645000" />
+      <workItem from="1688469471295" duration="1577000" />
+      <workItem from="1688517486647" duration="3000" />
+      <workItem from="1688517537712" duration="5559000" />
+      <workItem from="1688537143576" duration="5351000" />
+      <workItem from="1688543470937" duration="697000" />
+      <workItem from="1688545664193" duration="168000" />
+      <workItem from="1688545874899" duration="9790000" />
+      <workItem from="1688604130893" duration="25059000" />
+      <workItem from="1688690341736" duration="10381000" />
+      <workItem from="1688709570572" duration="6536000" />
+      <workItem from="1688729468522" duration="2815000" />
+      <workItem from="1688781200800" duration="3614000" />
+      <workItem from="1688816842729" duration="4980000" />
+      <workItem from="1688866049300" duration="4886000" />
+      <workItem from="1688886420000" duration="11041000" />
+      <workItem from="1688949005198" duration="17653000" />
+      <workItem from="1688988310192" duration="3435000" />
+      <workItem from="1688994051709" duration="332000" />
+      <workItem from="1689033665273" duration="9378000" />
+      <workItem from="1689056823040" duration="16421000" />
+      <workItem from="1689121932855" duration="6846000" />
+      <workItem from="1689142301189" duration="11318000" />
+      <workItem from="1689160732446" duration="388000" />
+      <workItem from="1689161162227" duration="8071000" />
+      <workItem from="1689209515424" duration="22642000" />
+      <workItem from="1689249350146" duration="3478000" />
+      <workItem from="1689294926265" duration="8483000" />
+      <workItem from="1689313912772" duration="9859000" />
+      <workItem from="1689424562833" duration="6528000" />
+      <workItem from="1689506658575" duration="5707000" />
+      <workItem from="1689554741246" duration="1239000" />
+      <workItem from="1689575307473" duration="660000" />
+      <workItem from="1689577806075" duration="381000" />
+      <workItem from="1689595349218" duration="3676000" />
+      <workItem from="1689684821021" duration="38000" />
+      <workItem from="1689684903620" duration="17000" />
+      <workItem from="1689728820570" duration="616000" />
+      <workItem from="1689837726821" duration="22000" />
+      <workItem from="1689844953524" duration="140000" />
+      <workItem from="1689852282312" duration="17000" />
+      <workItem from="1689852381096" duration="2453000" />
+      <workItem from="1689855158643" duration="15000" />
+      <workItem from="1690115681897" duration="3693000" />
+      <workItem from="1690158503426" duration="28000" />
+      <workItem from="1690161716543" duration="515000" />
+      <workItem from="1690163263690" duration="18000" />
+      <workItem from="1690163332230" duration="14000" />
+      <workItem from="1690165251147" duration="143000" />
+      <workItem from="1690182370427" duration="7000" />
+      <workItem from="1690182552022" duration="76000" />
+      <workItem from="1690198812270" duration="1385000" />
+      <workItem from="1690247277883" duration="64000" />
+      <workItem from="1690290844215" duration="2492000" />
+      <workItem from="1690331603820" duration="4768000" />
+      <workItem from="1690459515276" duration="3305000" />
+      <workItem from="1690719027009" duration="1646000" />
+      <workItem from="1690807278867" duration="3376000" />
+      <workItem from="1690810695818" duration="706000" />
+      <workItem from="1690853086500" duration="21000" />
+      <workItem from="1690894147539" duration="2316000" />
+      <workItem from="1691138126913" duration="15000" />
+      <workItem from="1691325325909" duration="2460000" />
+      <workItem from="1691391916612" duration="45000" />
+      <workItem from="1691498609617" duration="2562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="request-demo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo11.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.sun.proxy.$Proxy7" memberName="h" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="grid[i][n-1]" />
+        <watch expression="list1" />
+        <watch expression="list1.next" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
