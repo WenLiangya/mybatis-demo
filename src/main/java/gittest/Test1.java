@@ -16,7 +16,7 @@ public class Test1 {
         System.out.println("login");
     }
 
-    public void dev01test() {
+    public void mastertest() {
         System.out.println("dev01test");
     }
 }
