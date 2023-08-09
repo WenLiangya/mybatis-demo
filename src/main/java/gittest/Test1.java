@@ -19,4 +19,8 @@ public class Test1 {
     public void logout() {
         System.out.println("logout");
     }
+
+    public void dev01test() {
+        System.out.println("dev01test");
+    }
 }
