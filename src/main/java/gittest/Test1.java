@@ -23,4 +23,8 @@ public class Test1 {
     public void dev01test() {
         System.out.println("dev01test");
     }
+
+    public void mastertest() {
+        System.out.println("dev01test");
+    }
 }
