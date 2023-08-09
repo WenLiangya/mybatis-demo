@@ -17,6 +17,7 @@ public class Demo3 {
         Solution3 solution3 = new Solution3();
         System.out.println(solution3.maxAbsoluteSum(nums));
 
+
         Solution3_1 solution3_1 = new Solution3_1();
         System.out.println(solution3_1.maxAbsoluteSum(nums));
     }
