@@ -21,10 +21,8 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="378238a9-cdd9-403b-8c1d-143a8f9530e4" name="Default Changelist" comment="最长公共前缀,合并二叉树">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday3/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+    <list default="true" id="378238a9-cdd9-403b-8c1d-143a8f9530e4" name="Default Changelist" comment="字符串中的查找与替换">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday3/Demo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +132,7 @@
       <recent name="com.itheima.util" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Demo1">
+  <component name="RunManager" selected="应用程序.Demo2">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -172,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.beijing.leetcode.dayday2.Demo7" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.beijing.leetcode.dayday3.Demo2" />
       <module name="mybatis-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.beijing.leetcode.dayday2.*" />
+          <option name="PATTERN" value="com.beijing.leetcode.dayday3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,19 +300,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat 服务器.Tomcat 8.5.84" />
-      <item itemvalue="应用程序.Demo7" />
       <item itemvalue="应用程序.Demo8" />
       <item itemvalue="应用程序.Demo9" />
       <item itemvalue="应用程序.Demo10" />
       <item itemvalue="应用程序.Demo1" />
+      <item itemvalue="应用程序.Demo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Demo2" />
         <item itemvalue="应用程序.Demo1" />
         <item itemvalue="应用程序.Demo10" />
         <item itemvalue="应用程序.Demo9" />
         <item itemvalue="应用程序.Demo8" />
-        <item itemvalue="应用程序.Demo7" />
       </list>
     </recent_temporary>
   </component>
@@ -482,6 +480,8 @@
       <workItem from="1692017334878" duration="2873000" />
       <workItem from="1692061978026" duration="80000" />
       <workItem from="1692102333452" duration="2532000" />
+      <workItem from="1692104926181" duration="189000" />
+      <workItem from="1692188409470" duration="1726000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1691545519405</created>
@@ -560,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692020210484</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="字符串中的查找与替换">
+      <created>1692105052484</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692105052484</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,7 +595,8 @@
     <MESSAGE value="23.合并k个有序链表" />
     <MESSAGE value="合并两个有序数组" />
     <MESSAGE value="最长公共前缀,合并二叉树" />
-    <option name="LAST_COMMIT_MESSAGE" value="最长公共前缀,合并二叉树" />
+    <MESSAGE value="字符串中的查找与替换" />
+    <option name="LAST_COMMIT_MESSAGE" value="字符串中的查找与替换" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
