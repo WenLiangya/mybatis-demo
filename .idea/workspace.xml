@@ -21,9 +21,144 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="378238a9-cdd9-403b-8c1d-143a8f9530e4" name="Default Changelist" comment="字符串中的查找与替换">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday3/Demo2.java" afterDir="false" />
+    <list default="true" id="378238a9-cdd9-403b-8c1d-143a8f9530e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/csdn/equalsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/month10/Demo10_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/month10/Demo10_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/month10/Demo10_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/month12/day12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/month12/day28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/month12/day28_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/month12/day28_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/month12/day29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/month12/day29_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/year2024/leetcode/month1/day2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/year2024/leetcode/month1/day2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/year2024/leetcode/month1/day2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/year2024/leetcode/month1/day2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/year2024/leetcode/month1/day3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/year2024/leetcode/month1/day3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/year2024/leetcode/month1/day4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/year2024/leetcode/month1/day4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f8d210f4-a914-4aab-bd44-e81ebacf9fca.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f8d210f4-a914-4aab-bd44-e81ebacf9fca.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday1/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday1/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday1/Demo10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday1/Demo10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday1/Demo11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday1/Demo11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday1/Demo12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday1/Demo12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday1/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday1/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday1/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday1/Demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday1/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday1/Demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday1/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday1/Demo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday1/Demo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday1/Demo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday1/Demo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday1/Demo7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday1/Demo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday1/Demo8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday1/Demo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday1/Demo9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday2/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday2/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday2/Demo10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday2/Demo10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday2/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday2/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday2/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday2/Demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday2/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday2/Demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday2/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday2/Demo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday2/Demo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday2/Demo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday2/Demo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday2/Demo7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday2/Demo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday2/Demo8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday2/Demo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/dayday2/Demo9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday3/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/month10/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday3/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/month10/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gittest/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gittest/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/LuckyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/RandomizedSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/Solution10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/Solution11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/Solution12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/Solution13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/Solution14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/Solution4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/Solution5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/Solution9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday/demo9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Demo10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Demo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Demo12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Demo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Demo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Demo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Demo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Demo9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/ListNode12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution10_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution5_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution5_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday1/Solution9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday2/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday2/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday2/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday2/Demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday2/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday2/ListNode2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday2/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday2/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday2/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday2/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday2/Solution3_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beijing/leetcode/dayday2/Solution4.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,12 +223,14 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunConfigurationTargetLRU" value="f8d210f4-a914-4aab-bd44-e81ebacf9fca/schema/&quot;db1&quot;" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL 方言" value="MySQL&#10;GenericSQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sky-take-out" />
+    <property name="database.data.extractors.current.export.id" value="SQL 插入" />
+    <property name="last_opened_file_path" value="E:/燃数" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -124,6 +261,9 @@
       <recent name="D:\develop\WorkSpace\mybatis-demo\htmlDemo\img" />
       <recent name="D:\develop\WorkSpace\mybatis-demo\htmlDemo\html" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.beijing.leetcode.dayday1" />
       <recent name="com.itheima.web.ajax" />
@@ -132,7 +272,7 @@
       <recent name="com.itheima.util" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Demo2">
+  <component name="RunManager" selected="应用程序.day4_2">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -144,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.beijing.leetcode.dayday3.Demo1" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gittest.Test1" />
       <module name="mybatis-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.beijing.leetcode.dayday3.*" />
+          <option name="PATTERN" value="gittest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.beijing.leetcode.dayday2.Demo10" />
+    <configuration name="day2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.year2024.leetcode.month1.day2_4" />
       <module name="mybatis-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.beijing.leetcode.dayday2.*" />
+          <option name="PATTERN" value="com.year2024.leetcode.month1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.beijing.leetcode.dayday3.Demo2" />
+    <configuration name="day3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.year2024.leetcode.month1.day3_1" />
       <module name="mybatis-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.beijing.leetcode.dayday3.*" />
+          <option name="PATTERN" value="com.year2024.leetcode.month1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.beijing.leetcode.dayday2.Demo8" />
+    <configuration name="day4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.year2024.leetcode.month1.day4_1" />
       <module name="mybatis-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.beijing.leetcode.dayday2.*" />
+          <option name="PATTERN" value="com.year2024.leetcode.month1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.beijing.leetcode.dayday2.Demo9" />
+    <configuration name="day4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.year2024.leetcode.month1.day4_2" />
       <module name="mybatis-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.beijing.leetcode.dayday2.*" />
+          <option name="PATTERN" value="com.year2024.leetcode.month1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,19 +440,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat 服务器.Tomcat 8.5.84" />
-      <item itemvalue="应用程序.Demo8" />
-      <item itemvalue="应用程序.Demo9" />
-      <item itemvalue="应用程序.Demo10" />
-      <item itemvalue="应用程序.Demo1" />
-      <item itemvalue="应用程序.Demo2" />
+      <item itemvalue="应用程序.day2_4" />
+      <item itemvalue="应用程序.day3_1" />
+      <item itemvalue="应用程序.Test1" />
+      <item itemvalue="应用程序.day4_1" />
+      <item itemvalue="应用程序.day4_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Demo2" />
-        <item itemvalue="应用程序.Demo1" />
-        <item itemvalue="应用程序.Demo10" />
-        <item itemvalue="应用程序.Demo9" />
-        <item itemvalue="应用程序.Demo8" />
+        <item itemvalue="应用程序.day4_2" />
+        <item itemvalue="应用程序.day4_1" />
+        <item itemvalue="应用程序.Test1" />
+        <item itemvalue="应用程序.day3_1" />
+        <item itemvalue="应用程序.day2_4" />
       </list>
     </recent_temporary>
   </component>
@@ -481,7 +621,37 @@
       <workItem from="1692061978026" duration="80000" />
       <workItem from="1692102333452" duration="2532000" />
       <workItem from="1692104926181" duration="189000" />
-      <workItem from="1692188409470" duration="1726000" />
+      <workItem from="1692188409470" duration="1773000" />
+      <workItem from="1693447836343" duration="698000" />
+      <workItem from="1693448575036" duration="3496000" />
+      <workItem from="1693537923978" duration="172000" />
+      <workItem from="1693538140023" duration="768000" />
+      <workItem from="1693789468797" duration="586000" />
+      <workItem from="1693811112734" duration="231000" />
+      <workItem from="1693897802604" duration="1490000" />
+      <workItem from="1693963737631" duration="154000" />
+      <workItem from="1693963937672" duration="2000" />
+      <workItem from="1695199049638" duration="3777000" />
+      <workItem from="1695554088863" duration="51000" />
+      <workItem from="1696654594104" duration="3000" />
+      <workItem from="1696654609764" duration="3681000" />
+      <workItem from="1696659514368" duration="22000" />
+      <workItem from="1696827071414" duration="9502000" />
+      <workItem from="1696911650212" duration="1319000" />
+      <workItem from="1696934932092" duration="967000" />
+      <workItem from="1697018527357" duration="5269000" />
+      <workItem from="1697075525322" duration="7366000" />
+      <workItem from="1697162218492" duration="13243000" />
+      <workItem from="1697421325586" duration="4913000" />
+      <workItem from="1698213731054" duration="2024000" />
+      <workItem from="1698219822635" duration="248000" />
+      <workItem from="1702364282504" duration="3367000" />
+      <workItem from="1702368782389" duration="4037000" />
+      <workItem from="1703734155192" duration="10201000" />
+      <workItem from="1703820441617" duration="12960000" />
+      <workItem from="1704165295848" duration="10841000" />
+      <workItem from="1704248538374" duration="3518000" />
+      <workItem from="1704335435262" duration="9480000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1691545519405</created>
@@ -567,7 +737,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692105052484</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2682. 找出转圈游戏输家">
+      <created>1692190194130</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692190194130</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,30 +773,31 @@
     <MESSAGE value="合并两个有序数组" />
     <MESSAGE value="最长公共前缀,合并二叉树" />
     <MESSAGE value="字符串中的查找与替换" />
-    <option name="LAST_COMMIT_MESSAGE" value="字符串中的查找与替换" />
+    <MESSAGE value="2682. 找出转圈游戏输家" />
+    <option name="LAST_COMMIT_MESSAGE" value="2682. 找出转圈游戏输家" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/beijing/leetcode/dayday/demo11.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/dayday/demo11.java</url>
           <line>40</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/year2024/leetcode/month1/day2_1.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
+        <PinnedItemInfo parentTag="com.year2024.leetcode.month1.ListNode" memberName="next" />
         <PinnedItemInfo parentTag="com.sun.proxy.$Proxy7" memberName="h" />
+        <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="value" />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="grid[i][n-1]" />
-        <watch expression="list1" />
-        <watch expression="list1.next" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
